@@ -8,6 +8,7 @@
             <v-card width="800" height="500">
               <v-form action="https://formsubmit.co/pedrogomez5024@gmail.com" method="POST">
                 <v-img
+                
                   dense
                   contain
                   max-height="88"
