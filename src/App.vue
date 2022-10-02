@@ -6,9 +6,10 @@
         <v-card-actions class="justify-center"  align="center" justify="center" style="height:100vh" dense> 
           <v-flex xs12 sm6 offset-sm0 >
             <v-card width="800" height="500">
+              
               <v-form action="https://formsubmit.co/pedrogomez5024@gmail.com" method="POST">
                 <v-img
-                
+
                   dense
                   contain
                   max-height="88"
